@@ -1,8 +1,8 @@
 body {
-    background-color:orange;
+    background-color: orangered;
   }
   
-  h1 { background-color:white;
+  h1 { background-color:orangered;
     color: white
     text-align: center;
   }
@@ -11,3 +11,9 @@ body {
     font-family: verdana;
     font-size: 20px;
   }
+  .important {
+    color: red;
+  }
+  .unimportant {
+    color: blue;
+  } 
