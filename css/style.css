@@ -1,12 +1,12 @@
 body {
-    background-image: url(/images/web.jpeg);
+    background-image: url(../images/web.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
   }
   
-  h5 { background-color: darkslategray;
+  h5 { background-color: burlywood;
     color: white
-    text-align: center;
+    
   }
   p {
     font-family: verdana;
